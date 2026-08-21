@@ -6,6 +6,20 @@ Backpan reproduit l'expérience du handpan dans le navigateur : jouer, s'enregis
 
 Ce dépôt est une vitrine : pas de code source ici, juste ce qu'il y a sous le capot. Le code vit dans un dépôt privé.
 
+![Handpan et mixer Backpan](images/hero.jpg)
+
+## Studio complet
+
+Progression d'accords, séquenceur de percussions, drone/pad, sélection de gammes — tout piloté depuis une seule vue.
+
+![Vue studio complète](images/studio-full.jpg)
+
+## Multi-instrument
+
+Handpan, mais aussi guitare (tablature, accords, presets), pour composer au-delà du seul handpan.
+
+![Module guitare et step sequencer](images/guitar-module.jpg)
+
 ## Stack
 
 - **Frontend** : React, TypeScript, Tone.js (moteur audio)
