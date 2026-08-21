@@ -10,15 +10,15 @@ Ce dépôt est une vitrine : pas de code source ici, juste ce qu'il y a sous le 
 
 ## Studio complet
 
-Progression d'accords, séquenceur de percussions, drone/pad, sélection de gammes — tout piloté depuis une seule vue.
+Progression d'accords, séquenceur de percussions, drone/pad, sélection de gammes, tout piloté depuis une seule vue.
 
 ![Vue studio complète](images/studio-full.jpg)
 
-## Multi-instrument
+## Sur mobile aussi
 
-Handpan, mais aussi guitare (tablature, accords, presets), pour composer au-delà du seul handpan.
+Même studio, dans le navigateur, sans rien installer.
 
-![Module guitare et step sequencer](images/guitar-module.jpg)
+![Vue mobile de Backpan](images/mobile.jpg)
 
 ## Stack
 
